@@ -1,0 +1,18 @@
+.header{
+	height: 80px;
+	width: 100%;
+	border-bottom: solid 2px #222;
+}
+.logo img{
+	width: 200px;
+	float: left;
+}
+.nav li{
+	list-style: none;
+	display: inline;
+}
+.nav{float: right;
+}
+.menu{
+	padding: 0 10px 0 10px;
+}
